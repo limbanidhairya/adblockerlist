@@ -29,3 +29,4 @@
 ||fls-eu.amazon.com^
 ||unagi-fe.amazon.com^
 ||unagi.amazon.in^
+||abjqommaaaaaaaamlek5q5wrexcyw.pop-vod-dash.main.amazon.pv-cdn.net^
